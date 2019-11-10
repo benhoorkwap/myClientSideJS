@@ -1,0 +1,17 @@
+button {
+    box-sizing: border-box;
+   
+    border-radius: 5px;
+    background-color: #ae4455;
+    color: #fff;
+    padding: 8px;
+    font-size: 14px;
+    font-family: sans-serif;
+
+
+
+}
+
+#graph {
+    border: 1px solid #222;
+}
